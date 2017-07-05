@@ -1,0 +1,13 @@
+Custom Icon Sizes - (https://developer.apple.com/ios/human-interface-guidelines/graphics/custom-icons/)
+
+NAVIGATION BAR AND TOOLBAR ICON SIZE
+75px X 75px (25pt X 25pt @3x) - (Recommended)
+50px X 50px (25pt X 25pt @2x) - (Recommended)
+83px X 83px (27.67pt X 27.67pt @3x) - (Maximum)
+56px X 56px (28pt X 28pt @2x) - (Maximum)
+
+TAB BAR ICON SIZE
+75px X 75px (25pt X 25pt @3x) - (Recommended)
+50px X 50px (25pt X 25pt @2x) - (Recommended)
+144px X 96px (48pt X 32pt @3x) - (Maximum)
+96px X 64px (48pt X 32pt @2x) - (Maximum)
